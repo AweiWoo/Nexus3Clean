@@ -1,0 +1,8 @@
+#!/bin/bash
+
+nexus_url="http://192.168.20.237:8081"
+nexus_user="admin"
+nexus_pwd="Cbh0527!"
+retention=30
+s_repository="Releases"
+compcat_task_id="c165f7a4-6162-4258-9cec-435603a0e3b6"
