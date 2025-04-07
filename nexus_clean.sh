@@ -1,6 +1,6 @@
 #!/bin/bash
 #脚本功能： 清理nexus release仓库制品
-#编写人：wwu
+#编写人：AweiWoo
 
 source ./env
 
